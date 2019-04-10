@@ -1,34 +1,38 @@
-#define e Serial.println
+#define e a
 #define ee 0
-#define eee 9600
-#define eeee if
-#define eeeee loop
-#define eeeeee +=
-#define eeeeeee (
-#define eeeeeeee int
-#define eeeeeeeee }
-#define eeeeeeeeee ;
-#define eeeeeeeeeee >=
-#define eeeeeeeeeeee main
-#define eeeeeeeeeeeee 100
-#define eeeeeeeeeeeeee 1
-#define eeeeeeeeeeeeeee {
-#define eeeeeeeeeeeeeeee )
-#define eeeeeeeeeeeeeeeee =
-#define eeeeeeeeeeeeeeeeee setup
-#define eeeeeeeeeeeeeeeeeee Serial.begin
-#define eeeeeeeeeeeeeeeeeeee void
+#define eee >=
+#define eeee ;
+#define eeeee if
+#define eeeeee "String
+#define eeeeeee loop
+#define eeeeeeee Serial.begin
+#define eeeeeeeee string
+#define eeeeeeeeee 9600
+#define eeeeeeeeeee )
+#define eeeeeeeeeeee =
+#define eeeeeeeeeeeee +=
+#define eeeeeeeeeeeeee setup
+#define eeeeeeeeeeeeeee main
+#define eeeeeeeeeeeeeeee (
+#define eeeeeeeeeeeeeeeee void
+#define eeeeeeeeeeeeeeeeee 1
+#define eeeeeeeeeeeeeeeeeee Serial.println
+#define eeeeeeeeeeeeeeeeeeee }
+#define eeeeeeeeeeeeeeeeeeeee {
+#define eeeeeeeeeeeeeeeeeeeeee Constant"
+#define eeeeeeeeeeeeeeeeeeeeeee int
+#define eeeeeeeeeeeeeeeeeeeeeeee 100
 
-eeeeeeee eeeeeeeeeeee eeeeeeeeeeeeeeeee ee eeeeeeeeee 
-eeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeee eeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeee 
-eeeeeeeeeeeeeeeeeee eeeeeee eee eeeeeeeeeeeeeeee eeeeeeeeee 
-eeeeeeeee 
-
-eeeeeeeeeeeeeeeeeeee eeeee eeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeee 
-eeee eeeeeee eeeeeeeeeeee eeeeeeeeeee eeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeee 
-eeeeeeeeeeee eeeeeeeeeeeeeeeee ee eeeeeeeeee 
-eeeeeeeee 
-e eeeeeee eeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeee 
-eeeeeeeeeeee eeeeee eeeeeeeeeeeeee eeeeeeeeee 
-eeeeeeeee 
+eeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeee eeeeeeeeeeee ee eeee 
+eeeeeeeee e eeeeeeeeeeee eeeeee eeeeeeeeeeeeeeeeeeeeee 
+eeeeeeeeeeeeeeeee eeeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeee eeeeeeeeeeeeeeeeeeeee 
+eeeeeeee eeeeeeeeeeeeeeee eeeeeeeeee eeeeeeeeeee eeee 
+eeeeeeeeeeeeeeeeeeee 
+eeeeeeeeeeeeeeeee eeeeeee eeeeeeeeeeeeeeee eeeeeeeeeee eeeeeeeeeeeeeeeeeeeee 
+eeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeee eee eeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeee eeeeeeeeeeeeeeeeeeeee 
+eeeeeeeeeeeeeee eeeeeeeeeeee ee eeee 
+eeeeeeeeeeeeeeeeeeee 
+eeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeee eeeeeeeeeeeeeee eeeeeeeeeee eeee 
+eeeeeeeeeeeeeee eeeeeeeeeeeee eeeeeeeeeeeeeeeeee eeee 
+eeeeeeeeeeeeeeeeeeee 
 
